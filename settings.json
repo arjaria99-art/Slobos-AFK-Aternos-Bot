@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mcnetmine.aternod.me",
+    "ip": "mcnetmine.aternos.me",
     "port": 25860,
     "version": "26.2",
     "try-creative": false
