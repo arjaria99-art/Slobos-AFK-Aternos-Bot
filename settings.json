@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "24/7_KEEPER",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "24.7_keeper",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "mcnetmine.aternod.me",
+    "port": 25860,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "YOO WELCOME TO MCNETMINE NEW PLAYERS",
+        "",
+        ""
       ]
     },
     "chat-log": true,
@@ -54,7 +54,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 100
     }
   },
   "modules": {
